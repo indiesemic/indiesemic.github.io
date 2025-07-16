@@ -1,0 +1,7 @@
+ISC-Arduino-BSP/EVK-ISC-nRF52832-A.tar.gz filter=lfs diff=lfs merge=lfs -text
+ISC-Arduino-BSP/nrfjprog-9.4.0.tar.gz filter=lfs diff=lfs merge=lfs -text
+ISC-Arduino-BSP/nrfjprog-9.4.0-win.tar.gz filter=lfs diff=lfs merge=lfs -text
+ISC-Arduino-BSP/adafruit-nrfutil--0.5.3.post17-win.tar.gz filter=lfs diff=lfs merge=lfs -text
+ISC-Arduino-BSP/arm-none-eabi-gcc-9-2019q4.tar.gz filter=lfs diff=lfs merge=lfs -text
+ISC-Arduino-BSP/arm-none-eabi-gcc-9-2019q4-win.tar.gz filter=lfs diff=lfs merge=lfs -text
+ISC-Arduino-BSP/CMSIS-5.7.0.tar.gz filter=lfs diff=lfs merge=lfs -text
